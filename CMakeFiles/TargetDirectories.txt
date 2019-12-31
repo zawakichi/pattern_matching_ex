@@ -1,0 +1,3 @@
+/Users/user/Public/workspace/pattern_matching_ex/CMakeFiles/rebuild_cache.dir
+/Users/user/Public/workspace/pattern_matching_ex/CMakeFiles/edit_cache.dir
+/Users/user/Public/workspace/pattern_matching_ex/CMakeFiles/Template-Matching.dir
